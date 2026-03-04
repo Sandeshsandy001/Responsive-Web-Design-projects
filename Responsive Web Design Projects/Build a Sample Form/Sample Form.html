@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Survey Form</title>
+  </head>
+
+  <body>
+    <h1 id="title"> Survey Form </h1>
+    <p id="description"> This is the  survey form of FreeCodeCamp which is basically a certification project. </p>
+    <form id="survey-form">
+      <label id="name-label"> Name <input type="text" id="name" placeholder="Enter your name " required> </label><br>
+
+      <label id="email-label"> Email <input type="email" id="email" placeholder="enter your email" required> </label>
+
+      <br><label id="number-label"> Age <input type="number" min="5" max="50" id="number" placeholder="enter age"> </label>
+      <br>
+      <p> Which best describes your current education </p>
+      <select id="dropdown" required>
+        <option> slc </option>
+        <option> +2 </option>
+        <option> under-graduate </option>
+        <option> Graduate </option>
+      </select>
+      <p> Where did you hear about FreeCodeCamp? </p>
+      <label> <input type="radio" name="friend" value="friend">Friend </label> 
+      <label> <input type="radio" name="social-media" value="social-media"> Social Media </label>
+      <label> <input type="radio" name="yes" value="yes"> Google </label> 
+      <label> <input type="radio" name="no" value="no"> ad </label>
+
+      <p> Do you like us? </p>
+      <label> <input type="radio" name="yes" value="yes">Yes </label> 
+      <label> <input type="radio" name="no" value="no"> No </label>
+      <label> <input type="radio" name="friend" value="friend">Of course </label> 
+      <label> <input type="radio" name="social-media" value="social-media"> Not at all </label>
+
+      <p> What do you like us to improve?? </p>
+      <label> <input type="checkbox" value="Frontend" > Frontend </label>
+      <label> <input type="checkbox" value="backend"> Backend </label>
+      <label> <input type="checkbox" value="both" > Both </label>
+      <p> Any Comments?? </p>
+      <textarea id="text" placeholder="enter comments here ...."">  </textarea> 
+      <br><button type="submit" id="submit"> Submit </button>
+
+
+  </body>
+</html>

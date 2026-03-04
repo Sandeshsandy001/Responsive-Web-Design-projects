@@ -1,0 +1,25 @@
+/* *{
+  margin:20px;
+  padding:10px;
+} */
+#image{
+  height:auto;
+  max-width:100%;
+  width:auto;
+  margin: 5px auto;
+  padding:auto;
+  display:block;
+
+}
+#tribute-info{
+  margin:5px auto;
+  display:block;
+  width:auto;
+  text-align:center;
+}
+p{
+    margin:5px auto;
+  display:block;
+  width:auto;
+  text-align:center;
+}
