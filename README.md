@@ -1,4 +1,4 @@
-# Responsive-Web-Design-projects
+
 Responsive Web Design Projects
 I have completed the Responsive Web Design Certification from FreeCodeCamp.
 
@@ -32,4 +32,5 @@ Improving problem-solving skills
 
 I have and will upload the contents that i have learned through out this journey in my LinkedIn Profile Daily, So do check this link - www.linkedin.com/in/
 sandesh-bastakoti-1a556127b  
+Also you can see my certificates from here - https://www.linkedin.com/in/sandesh-bastakoti-1a556127b/details/certifications/
  
